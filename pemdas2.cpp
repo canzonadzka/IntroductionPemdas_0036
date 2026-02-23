@@ -4,4 +4,10 @@ using namespace std;
 int main()
 {
 }
+// Langkah 1
 int luas, panjang, lebar;
+
+// Langkah 2
+cout << "Masukkan Panjang :";
+cin >> Panjang;
+
