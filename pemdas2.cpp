@@ -11,3 +11,15 @@ int luas, panjang, lebar;
 cout << "Masukkan Panjang :";
 cin >> Panjang;
 
+// Langkah 3
+cout << "Masukkan Lebar :";
+cin >> lebar
+
+// Langkah 4
+luas = panjang * lebar;
+
+// Langkah 5
+cout << "Hasilnya : " << luas;
+
+
+
